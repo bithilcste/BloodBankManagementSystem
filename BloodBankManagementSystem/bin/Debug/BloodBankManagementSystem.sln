@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "BloodBankManagementSystem", "BloodBankManagementSystem.exe", "{D23ACB42-C83B-44E8-AA04-E8CA1AF6BDB8}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Bithil\Documents\Visual Studio 2012\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+		RemoteMachine = BITHIL-PC
+		StartingDirectory = C:\Users\Bithil\Documents\Visual Studio 2012\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23ACB42-C83B-44E8-AA04-E8CA1AF6BDB8}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
